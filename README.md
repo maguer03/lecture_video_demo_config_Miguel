@@ -1,3 +1,2 @@
 # Lecture demo 
-
-sup 
+Miguel Guerrero
